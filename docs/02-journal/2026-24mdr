@@ -1,8 +1,45 @@
 # Journal - mardi 25 août 2026 ( rédigé par : Chérif ANAMINE )
 ## Fait aujourd'huit 
+La formation a commencé par une réflexion sur l’importance de la documentation dans un projet. J’ai compris qu’un travail réalisé plusieurs mois auparavant peut être difficile à reproduire si les différentes étapes n’ont pas été correctement notées.
+
+Nous avons ensuite étudié les objectifs de la documentation et ses différentes fonctions : garder une mémoire du travail réalisé, transmettre les informations aux autres, apporter des preuves et contribuer au partage des connaissances.
+
+Nous avons également abordé le cadre général de la formation et les principaux outils que nous allons utiliser : VSCode, Git, GitHub et GitHub Pages.
+
+Enfin, nous avons commencé à découvrir le langage Markdown, qui permet de rédiger des documents simples et structurés.
 
 
-## Appris 
+## Appris
+J’ai appris que documenter ne signifie pas seulement rédiger un rapport à la fin d’un projet. La documentation doit être réalisée au fur et à mesure du travail.
+
+J’ai retenu cinq principes importants d’une bonne documentation :
+- elle doit être quotidienne ;
+- elle doit être datée et signée ;
+- elle doit être honnête ;
+- elle doit être complète ;
+- elle doit être réutilisable.
+
+J’ai également appris le rôle des différents outils :
+
+- VSCode : permet d’écrire et de modifier les fichiers ;
+- Git : permet d’enregistrer l’historique du travail sur l’ordinateur ;
+- GitHub : permet de mettre l’historique en ligne et de partager le travail ;
+- GitHub Pages : permet de publier le dépôt sous forme de site web.
+
+J’ai aussi appris quelques éléments de base du Markdown, notamment la création des titres, du texte en gras ou en italique, des listes, des liens et des images.
 
 
 ## Raté, puis corrigé
+Au cours de cette première séance, j’ai constaté que je ne maîtrisais pas encore certains concepts liés à Git, GitHub et Markdown.
+
+J’ai notamment compris qu’il est important de distinguer le travail réalisé sur son ordinateur, l’historique enregistré par Git et le dépôt distant sur GitHub.
+
+Ces notions ont été expliquées progressivement pendant le cours et m’ont permis de mieux comprendre l’organisation du travail.
+## Décidé
+J’ai décidé de prendre l’habitude de documenter mon travail au fur et à mesure de l’avancement du projet.
+
+Je vais également essayer de mieux maîtriser VSCode, Git, GitHub et Markdown afin de pouvoir travailler correctement en équipe et conserver une trace de mes activités.
+##  À faire demain 
+Pour la prochaine séance, je dois continuer à pratiquer les outils présentés aujourd’hui et approfondir l’utilisation de Git, GitHub et Markdown.
+
+Je dois également continuer à prendre des notes sur les activités réalisées, les difficultés rencontrées et les solutions trouvées.
