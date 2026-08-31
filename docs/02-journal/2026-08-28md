@@ -1,0 +1,87 @@
+# Journal - mardi 25 août 2026 ( rédigé par : Chérif ANAMINE )
+
+## Fait aujourd'huit
+
+Dans le cadre de la formation des FabManagers, j’ai poursuivi les activités pratiques au sein du groupe 4. Au cours de cette journée, j’ai participé aux quatre ateliers prévus au programme. Cette journée a été particulièrement enrichissante, car elle nous a permis de passer progressivement de la conception et de la réflexion sur les projets à la programmation et à la fabrication concrète.
+
+Nous avons commencé par l’atelier consacré au choix des projets. Dans un premier temps, nous avons installé l’application Fusion Client. Cette installation nous a permis de préparer l’utilisation de l’outil pour les activités de conception qui seront réalisées au cours de la formation.
+
+Nous avons ensuite suivi un module consacré au Design Thinking. Cette approche nous a permis de réfléchir à la manière d’identifier un problème, de comprendre les besoins des utilisateurs et de rechercher des solutions adaptées. Nous avons également abordé la méthode spirale, qui permet de développer progressivement un projet à travers différentes étapes, en améliorant la solution au fur et à mesure des essais et des retours.
+
+Après cet atelier, nous sommes passés à l’atelier d’électronique. Nous avons installé et utilisé mBlock afin de réaliser un montage électronique. L’objectif de l’activité était de concevoir un système capable de s’allumer uniquement pendant la journée grâce à l’utilisation d’un capteur de lumière.
+
+Cette activité nous a permis de mettre en pratique les notions de programmation et d’électronique. Le capteur permet de détecter la quantité de lumière présente dans l’environnement et de transmettre cette information au système afin de commander automatiquement l’allumage du montage.
+
+Nous avons ensuite participé à l’atelier d’impression 3D. Nous avons installé et utilisé le logiciel Bambu Studio, puis nous avons pu aller plus loin que lors de la séance précédente en réalisant effectivement l’impression d’un exemple. Cette activité nous a permis d’observer de manière concrète le passage de la préparation numérique du modèle à sa fabrication par l’imprimante 3D.
+
+Enfin, nous avons terminé par l’atelier de découpe laser et d’impression, au cours duquel j’ai appris à concevoir une carte de visite. Cette activité m’a permis de découvrir les étapes de préparation d’une conception destinée à être utilisée dans un processus de fabrication numérique.
+
+## Appris
+
+Cette journée m’a permis d’acquérir des connaissances dans plusieurs domaines complémentaires.
+
+Au niveau du choix des projets, j’ai découvert l’importance de bien réfléchir à un projet avant de commencer sa réalisation. Le module sur le Design Thinking m’a permis de comprendre qu’un projet doit d’abord partir d’un besoin réel. Il est important de comprendre le problème, de prendre en compte les besoins de l’utilisateur, de rechercher des idées de solutions, puis de réaliser des prototypes et de les améliorer à partir des résultats obtenus.
+
+J’ai également découvert la méthode spirale. J’ai compris qu’un projet peut être développé progressivement en passant par plusieurs cycles : conception, réalisation, test, analyse et amélioration. Cette méthode permet donc de ne pas chercher immédiatement une solution définitive, mais de l’améliorer progressivement grâce aux essais.
+
+J’ai aussi appris à installer Fusion Client, même si son utilisation n’a pas encore été approfondie. Cette première étape me permettra de mieux me familiariser avec l’outil dans les prochaines séances.
+
+L’atelier d’électronique a été particulièrement pratique. Grâce à mBlock, j’ai appris à programmer un montage électronique en utilisant un capteur de lumière. J’ai compris qu’un capteur peut permettre à un système de réagir automatiquement aux conditions de son environnement.
+
+Dans notre cas, le montage a été programmé pour fonctionner en fonction de la lumière disponible, afin qu’il puisse s’allumer pendant la journée. Cette activité m’a permis de mieux comprendre la relation entre le capteur, la programmation et le comportement du montage.
+
+J’ai également compris qu’en électronique, il ne suffit pas de réaliser le câblage : il faut également programmer le système afin qu’il puisse interpréter les informations reçues du capteur et effectuer l’action souhaitée.
+
+Au niveau de l’impression 3D, j’ai approfondi l’utilisation de Bambu Studio. Contrairement à la séance précédente, nous avons cette fois-ci pu réaliser une impression concrète. J’ai donc pu mieux comprendre le lien entre le modèle numérique préparé dans le logiciel et l’objet obtenu grâce à l’imprimante 3D.
+
+Cette expérience m’a permis de mieux comprendre le processus de fabrication additive et l’importance de la préparation du fichier avant son impression.
+
+Enfin, à l’atelier de découpe laser, j’ai appris à concevoir une carte de visite. J’ai compris qu’une bonne fabrication nécessite d’abord une conception numérique correctement préparée. Les dimensions, la disposition des éléments et les informations présentes sur la carte doivent être soigneusement vérifiées avant de passer à la fabrication.
+
+## Raté
+
+Malgré les progrès réalisés, certaines difficultés ont été rencontrées au cours de la journée.
+
+Au niveau du Design Thinking et de la méthode spirale, j’ai compris les principes généraux, mais certaines étapes nécessitent encore davantage de pratique pour pouvoir les appliquer correctement à un projet réel. J’ai notamment besoin de mieux maîtriser la manière de passer de l’identification d’un problème à la formulation d’une solution concrète.
+
+Concernant Fusion Client, nous avons principalement procédé à son installation. Je n’ai donc pas encore eu suffisamment de temps pour découvrir et maîtriser ses différentes fonctionnalités.
+
+Au niveau de l’électronique, la réalisation du montage avec le capteur de lumière demandait de bien comprendre à la fois le câblage et la programmation. Certaines étapes étaient difficiles à suivre au début, notamment lorsqu’il fallait comprendre comment le capteur pouvait transmettre une information permettant de commander automatiquement le montage.
+
+Pour l’impression 3D, même si nous avons réussi à réaliser une impression, je dois encore approfondir les différents paramètres qui peuvent influencer la qualité et la réussite d’une impression.
+
+Enfin, pour la conception de la carte de visite, je dois encore améliorer ma précision dans la préparation de la conception afin d’éviter les erreurs avant le passage à la fabrication.
+
+## Puis corrigé
+
+Pour corriger les difficultés rencontrées, j’ai repris les explications données par les formateurs et j’ai essayé de suivre chaque étape de manière progressive.
+
+Pour le Design Thinking, j’ai pris des notes sur les différentes étapes afin de mieux comprendre la logique de cette méthode. J’ai également retenu l’importance de partir du besoin de l’utilisateur plutôt que de chercher directement une solution.
+
+Pour la méthode spirale, j’ai compris qu’il est nécessaire d’accepter les essais, les erreurs et les améliorations successives dans le développement d’un projet. Cela m’a permis de mieux comprendre l’importance du prototypage et des tests dans un FabLab.
+
+En électronique, j’ai repris les différentes étapes du montage et de la programmation avec mBlock. Les explications du formateur et la pratique m’ont permis de mieux comprendre le fonctionnement du capteur de lumière et son interaction avec le système.
+
+Pour l’impression 3D, le fait d’avoir réalisé une impression concrète m’a permis de mieux comprendre les étapes que nous avions seulement étudiées auparavant. J’ai pu observer la relation entre la préparation du modèle dans Bambu Studio et le résultat obtenu avec l’imprimante.
+
+Enfin, pour la carte de visite, j’ai suivi les indications données pendant l’atelier afin de mieux comprendre les étapes de conception et de préparation du fichier.
+
+## À faire demain
+
+Demain, je compte poursuivre la pratique et approfondir les connaissances acquises au cours de cette journée.
+
+Je vais notamment revoir les principes du Design Thinking et de la méthode spirale, afin de pouvoir les appliquer plus facilement dans la conception d’un projet.
+
+Je souhaite également continuer à découvrir Fusion Client et à me familiariser avec son interface et ses principales fonctionnalités.
+
+Au niveau de l’électronique, je vais revoir le fonctionnement du capteur de lumière et la programmation réalisée avec mBlock. Je souhaite être capable de comprendre et de reproduire le montage de manière plus autonome.
+
+Pour l’impression 3D, je vais revoir les différentes étapes de préparation d’un modèle dans Bambu Studio et essayer de mieux comprendre les paramètres qui influencent le résultat final.
+
+Enfin, je vais continuer à pratiquer la conception de cartes de visite et les techniques liées à la découpe laser afin d’améliorer ma précision et mon autonomie.
+
+## Bilan de la journée
+
+Cette journée du vendredi 28 a été particulièrement enrichissante. Elle m’a permis de mieux comprendre que les activités d’un FabLab ne se limitent pas à l’utilisation des machines. La réalisation d’un projet nécessite également une bonne réflexion sur le besoin, une méthode de conception, la programmation, la fabrication et enfin les tests et les améliorations.
+
+Les activités réalisées en Design Thinking, électronique, impression 3D et découpe laser m’ont permis de développer progressivement des compétences complémentaires qui seront importantes dans mon rôle de futur FabManager. La réalisation concrète du montage électronique avec le capteur de lumière et l’impression d’un objet en 3D ont particulièrement contribué à renforcer ma compréhension pratique.

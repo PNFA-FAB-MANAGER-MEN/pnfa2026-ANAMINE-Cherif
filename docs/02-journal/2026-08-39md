@@ -1,0 +1,81 @@
+# Journal - samedi 29 août 2026 ( rédigé par : Chérif ANAMINE )
+## Fait
+
+Dans le cadre de la formation des FabManagers, nous avons consacré une séance au choix des projets et à l’importance des FabLabs dans le milieu éducatif. Cette activité nous a permis de réfléchir à la manière dont un FabLab peut contribuer à l’apprentissage, à l’innovation et au développement de solutions répondant à des problèmes réels.
+
+Nous avons travaillé en groupe de quatre membres afin d'identifier un projet qui soit à la fois utile, réalisable et adapté aux besoins du milieu éducatif et de notre contexte local.
+
+Après plusieurs échanges entre les membres du groupe, nous avons retenu un projet composé de deux solutions complémentaires :
+
+une station agrométéorologique avec relevé et transmission des données par SMS ;
+un système d’arrosage automatique.
+
+Notre objectif est de concevoir un système permettant de recueillir certaines informations environnementales utiles à l'agriculture et de faciliter la gestion de l'arrosage grâce à l'automatisation.
+
+La station agrométéorologique aura pour rôle de mesurer différents paramètres de l’environnement, selon les capteurs qui seront retenus pour le projet. Les données recueillies pourront être transmises par SMS, permettant à l’utilisateur de recevoir les informations à distance.
+
+Le deuxième volet du projet concerne le système d’arrosage automatique. L’idée est de concevoir un dispositif capable de déclencher l’arrosage lorsque les conditions définies par le système sont réunies, notamment en fonction de l’humidité du sol.
+
+## Appris
+
+Cette séance m’a permis de comprendre davantage l’importance du choix d’un projet dans un FabLab. J’ai compris qu’un bon projet ne doit pas seulement être intéressant sur le plan technique : il doit également répondre à un besoin réel et pouvoir apporter une solution concrète à un problème identifié.
+
+J’ai également appris qu’un projet réalisé dans un FabLab peut avoir une forte valeur éducative. Les apprenants peuvent apprendre en réalisant eux-mêmes des objets et des systèmes. Ils peuvent ainsi mobiliser plusieurs domaines de connaissances, notamment les sciences, les mathématiques, l’informatique, l’électronique, la programmation et la technologie.
+
+Le travail sur notre projet m’a également permis de comprendre l’importance du travail en équipe. Chaque membre du groupe peut apporter ses idées, ses connaissances et ses compétences. Les échanges permettent de comparer les différentes propositions, d'identifier les difficultés et de rechercher ensemble des solutions.
+
+Concernant notre projet, j’ai compris qu’une station agrométéorologique peut constituer un outil pédagogique intéressant. Les données collectées peuvent permettre aux apprenants d’observer les variations des paramètres environnementaux et de les exploiter dans différentes activités scientifiques.
+
+La transmission des données par SMS apporte également une dimension pratique au projet, car elle permet d’envisager une consultation à distance des informations recueillies par la station.
+
+J’ai aussi compris le principe général d’un système d’arrosage automatique : des capteurs peuvent fournir des informations sur l’état du sol, puis un système de commande peut décider de déclencher ou non l’arrosage selon les conditions programmées.
+
+## Raté
+
+Au cours de cette activité, nous avons rencontré certaines difficultés, principalement au moment de déterminer précisément les caractéristiques de notre projet.
+
+Comme nous travaillons à quatre, chaque membre avait des idées différentes. Il a donc fallu discuter et comparer les propositions afin de parvenir à un choix commun.
+
+Nous avons également constaté que notre projet comporte plusieurs aspects techniques qui devront être étudiés plus en profondeur. Il faudra notamment déterminer les capteurs nécessaires, le système de commande, le mode de transmission des données par SMS et le mécanisme permettant de commander automatiquement l’arrosage.
+
+Une autre difficulté concerne l’organisation du projet. Il sera nécessaire de bien répartir les tâches entre les quatre membres afin que chacun puisse contribuer efficacement à la réalisation.
+
+## Puis corrigé
+
+Pour surmonter ces difficultés, nous avons organisé une discussion au sein du groupe afin de clarifier les objectifs et de mieux définir notre projet.
+
+Nous avons commencé à distinguer les différentes parties du système afin de faciliter sa réalisation. Le projet pourra ainsi être divisé en plusieurs sous-parties : acquisition des données, traitement des informations, transmission par SMS, commande de l’arrosage et alimentation du système.
+
+Nous avons également compris qu’il sera nécessaire de réaliser le projet progressivement. Nous commencerons par tester séparément les différents composants avant de les intégrer dans un système complet.
+
+Cette démarche permettra d’identifier plus facilement les erreurs et de les corriger avant l’assemblage final.
+
+Le travail en équipe nous a également permis de mieux organiser les idées et de rechercher collectivement des solutions aux difficultés rencontrées.
+
+## À faire demain
+
+Demain, nous allons poursuivre la réflexion et la conception de notre projet en groupe de quatre.
+
+Nous allons notamment :
+
+préciser l’objectif général et les objectifs spécifiques du projet ;
+identifier les différents capteurs nécessaires à la station agrométéorologique ;
+déterminer les paramètres environnementaux que nous souhaitons mesurer ;
+réfléchir au système permettant de transmettre les données par SMS ;
+définir le principe de fonctionnement du système d’arrosage automatique ;
+identifier les composants électroniques nécessaires ;
+réfléchir à l’alimentation électrique du dispositif ;
+répartir les différentes tâches entre les quatre membres du groupe ;
+établir les premières étapes de réalisation et de test du prototype.
+
+Nous allons également commencer à réfléchir à la manière dont le projet pourra être utilisé dans le milieu éducatif, notamment pour permettre aux élèves ou aux étudiants de comprendre concrètement les phénomènes liés à l’environnement, à l’agriculture, à l’électronique et à la programmation.
+
+Bilan de la journée
+
+Cette séance a été très enrichissante, car elle nous a permis de comprendre que la réussite d’un projet de FabLab commence par un bon choix de projet. Il est important d’identifier un besoin réel, de définir clairement le problème et de vérifier que la solution envisagée est réalisable avec les ressources disponibles.
+
+Notre projet de station agrométéorologique avec relevé des données par SMS et système d’arrosage automatique nous semble particulièrement intéressant, car il associe plusieurs domaines : environnement, agriculture, électronique, programmation, automatisation et transmission des données.
+
+Il présente également un intérêt pédagogique important. Sa réalisation permettra aux apprenants de passer de la théorie à la pratique en participant directement à la conception, à la programmation, au montage, aux tests et à l’amélioration du système.
+
+En tant que futurs FabManagers, cette activité nous apprend donc non seulement à utiliser les outils d’un FabLab, mais aussi à concevoir, organiser, réaliser et accompagner un projet innovant en équipe.
