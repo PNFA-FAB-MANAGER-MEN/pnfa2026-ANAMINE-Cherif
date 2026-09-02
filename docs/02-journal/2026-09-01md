@@ -1,0 +1,102 @@
+# Journal - lundi 01 septempre 2026 ( rédigé par : Chérif ANAMINE )
+
+## Fait aujourd'huit
+
+1. Fait
+
+Dans le cadre de la formation des FabManagers, nous avons consacré cette séance au choix d’un projet et à l’étude de l’importance des FabLabs dans le milieu éducatif.
+
+L’objectif de cette activité était de nous amener à réfléchir à la manière dont un FabLab peut être utilisé comme un espace d’apprentissage pratique, d’expérimentation, de créativité et d’innovation. Nous avons également été amenés à identifier un problème concret auquel nous pourrions apporter une solution à travers la conception et la fabrication d’un prototype.
+
+Pour cette activité, nous avons été répartis en groupes de quatre membres. Au sein de notre groupe, nous avons commencé par échanger nos différentes idées de projets. Chaque membre a présenté ses propositions et nous avons ensuite discuté de leur pertinence, de leur utilité, de leur faisabilité et de leur intérêt pédagogique.
+
+Après les différentes discussions, nous avons retenu un projet portant sur la conception d'une station agrométéorologique avec relevé et transmission des données par SMS, associée à un système d’arrosage automatique.
+
+Notre projet est donc constitué de deux parties principales qui doivent fonctionner de manière complémentaire :
+
+Première partie : la station agrométéorologique.
+Elle aura pour objectif de recueillir des informations sur certaines conditions environnementales à l’aide de différents capteurs. Les données obtenues pourront ensuite être traitées et transmises à l’utilisateur par SMS, afin de permettre un suivi à distance.
+
+Deuxième partie : le système d’arrosage automatique.
+Ce système aura pour objectif de faciliter l’arrosage des plantes en utilisant des informations provenant notamment de l’état du sol. Le dispositif pourra être programmé pour commander automatiquement l’arrosage lorsque les conditions définies sont réunies.
+
+Après le choix du projet, nous avons commencé à réfléchir à son fonctionnement général, aux différents éléments nécessaires à sa réalisation et aux possibilités de l’utiliser comme outil pédagogique dans le milieu éducatif.
+
+2. Appris
+
+Cette activité m’a permis de comprendre que le choix d’un projet dans un FabLab est une étape fondamentale. Avant de commencer la fabrication, il est nécessaire d’identifier clairement le problème que l’on souhaite résoudre, de définir les objectifs et de vérifier si la solution envisagée est réalisable.
+
+J’ai également compris qu’un projet de FabLab doit idéalement permettre de développer plusieurs compétences. Notre projet est intéressant dans ce sens puisqu’il fait intervenir plusieurs domaines tels que l’électronique, la programmation, les capteurs, l’automatisation, l’agriculture, l’environnement et les technologies de communication.
+
+J’ai aussi appris davantage sur l’importance des FabLabs dans le milieu éducatif. Un FabLab permet aux apprenants de ne pas rester uniquement dans la théorie. Ils peuvent concevoir, fabriquer, tester et améliorer eux-mêmes des solutions.
+
+Dans le cadre de notre projet, les apprenants pourraient par exemple apprendre à identifier les paramètres environnementaux, installer et utiliser des capteurs, programmer un microcontrôleur, analyser les données obtenues et comprendre le fonctionnement d’un système automatisé.
+
+La station agrométéorologique pourrait également servir à réaliser des activités pédagogiques autour de l’observation de l’environnement et de l’agriculture. Les données collectées pourraient être utilisées pour réaliser des tableaux, des graphiques et des analyses permettant aux apprenants de mieux comprendre les variations des conditions environnementales.
+
+J’ai également compris l’intérêt de la transmission des données par SMS. Cette fonctionnalité permettrait de recevoir les informations de la station à distance et montrerait aux apprenants une application concrète des technologies de communication dans un système automatisé.
+
+Pour le système d’arrosage automatique, j’ai compris que l’objectif est de réduire les interventions manuelles en permettant au dispositif de prendre une décision à partir des informations fournies par les capteurs. Cela permet également d’aborder les notions d’automatisation et de commande.
+
+Enfin, cette activité m’a permis de comprendre l’importance du travail collaboratif. Le fait de travailler à quatre nous permet de confronter nos idées, de nous répartir les responsabilités et de rechercher ensemble des solutions aux problèmes rencontrés.
+
+3. Raté
+
+Au cours de la séance, nous avons rencontré quelques difficultés.
+
+La première difficulté concernait le choix définitif du projet. Plusieurs idées intéressantes ont été proposées par les membres du groupe et il n’était pas immédiatement facile de déterminer laquelle répondait le mieux à nos objectifs.
+
+Nous avons également constaté que notre projet est relativement vaste. La réalisation d’une station agrométéorologique et d’un système d’arrosage automatique nécessite plusieurs composants et plusieurs compétences techniques.
+
+Nous devons encore déterminer avec précision :
+
+les paramètres environnementaux à mesurer ;
+les différents capteurs nécessaires ;
+le système électronique de commande ;
+le dispositif permettant de transmettre les données par SMS ;
+le système permettant de commander l’arrosage ;
+le mode d’alimentation électrique ;
+la manière d’intégrer les différentes parties dans un prototype fonctionnel.
+
+Nous n’avons pas non plus encore réalisé le prototype. Pour le moment, nous sommes principalement au stade de la réflexion, de la définition du projet et de la planification.
+
+4. Puis corrigé
+
+Afin de résoudre ces difficultés, nous avons pris le temps de discuter collectivement du projet et de préciser progressivement son objectif.
+
+Nous avons décidé de ne pas chercher à réaliser immédiatement le système complet. Nous allons plutôt procéder étape par étape, en commençant par identifier les besoins et les composants nécessaires.
+
+Nous avons également commencé à réfléchir à une organisation permettant de diviser le projet en différentes parties. Chaque membre du groupe pourra ainsi prendre en charge certaines tâches tout en travaillant en collaboration avec les autres.
+
+Nous avons compris que le prototype devra être développé progressivement : conception → choix des composants → réalisation des différents sous-systèmes → programmation → tests → correction des erreurs → intégration finale.
+
+Cette approche devrait nous permettre de mieux maîtriser le projet et d’éviter de rencontrer trop de difficultés au moment de l’assemblage final.
+
+5. À faire demain
+
+Pour la prochaine séance, nous allons poursuivre la conception et la planification de notre projet.
+
+Nous allons notamment :
+
+Définir clairement le problème auquel notre projet doit répondre ;
+Déterminer l’objectif général et les objectifs spécifiques ;
+Identifier les paramètres que la station agrométéorologique devra mesurer ;
+Rechercher les capteurs adaptés à chaque paramètre ;
+Déterminer le système électronique qui permettra de récupérer et traiter les données ;
+Étudier le principe de transmission des informations par SMS ;
+Définir le fonctionnement du système d’arrosage automatique ;
+Identifier les composants nécessaires à la réalisation du prototype ;
+Répartir les différentes tâches entre les quatre membres du groupe ;
+Commencer à établir un schéma général du fonctionnement du système.
+
+Nous allons également réfléchir à la manière de transformer notre projet en outil pédagogique. Nous voulons que le prototype puisse être utilisé pour montrer aux apprenants comment les connaissances scientifiques et technologiques peuvent être appliquées à un problème concret.
+
+Bilan de la journée
+
+Cette journée de formation a été importante dans l’évolution de notre travail, car elle nous a permis de passer d’une simple réflexion sur les projets à la sélection d’un projet concret.
+
+Le choix d’une station agrométéorologique avec transmission des données par SMS associée à un système d’arrosage automatique nous semble pertinent, car le projet répond à une problématique concrète tout en permettant de mobiliser plusieurs compétences.
+
+Il présente également un fort intérêt pédagogique. Sa réalisation peut permettre aux apprenants de découvrir de manière pratique les capteurs, l’électronique, la programmation, l’automatisation, la collecte et la transmission des données.
+
+Cette activité m’a surtout permis de comprendre qu’un FabLab est un espace où l’on apprend en faisant. La conception d’un projet permet de développer la créativité, l’esprit critique, la capacité à résoudre des problèmes et le travail en équipe. En tant que futur FabManager, je comprends donc davantage l’importance de bien accompagner les apprenants depuis l’identification du besoin jusqu’à la réalisation et à l’amélioration du prototype.
