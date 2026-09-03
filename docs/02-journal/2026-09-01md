@@ -1,102 +1,70 @@
-# Journal - lundi 01 septempre 2026 ( rédigé par : Chérif ANAMINE )
+# Journal - jeudi 03 septembre  2026 ( rédigé par : Chérif ANAMINE )
 
-## Fait aujourd'huit
 
-1. Fait
+##  Fait
 
-Dans le cadre de la formation des FabManagers, nous avons consacré cette séance au choix d’un projet et à l’étude de l’importance des FabLabs dans le milieu éducatif.
+Dans le cadre de la formation des FabManagers, nous avons poursuivi le développement de notre projet en groupe. La journée a été consacrée à la réflexion sur notre projet, à la préparation du prototype ainsi qu’à des activités pratiques dans les ateliers d’électronique et de découpe laser.
 
-L’objectif de cette activité était de nous amener à réfléchir à la manière dont un FabLab peut être utilisé comme un espace d’apprentissage pratique, d’expérimentation, de créativité et d’innovation. Nous avons également été amenés à identifier un problème concret auquel nous pourrions apporter une solution à travers la conception et la fabrication d’un prototype.
+Dans un premier temps, nous avons mené une réflexion approfondie sur notre projet. Nous avons essayé de mieux définir son fonctionnement, son objectif et les différentes étapes nécessaires à sa réalisation. Cette réflexion nous a permis de passer progressivement de l’idée générale à une représentation plus concrète de la solution que nous souhaitons développer.
 
-Pour cette activité, nous avons été répartis en groupes de quatre membres. Au sein de notre groupe, nous avons commencé par échanger nos différentes idées de projets. Chaque membre a présenté ses propositions et nous avons ensuite discuté de leur pertinence, de leur utilité, de leur faisabilité et de leur intérêt pédagogique.
+Nous avons ensuite réalisé une première esquisse de notre prototype. Cette esquisse nous a permis de représenter les différents éléments du système et d’avoir une idée de leur disposition. Elle constitue une première étape avant la réalisation d’une conception plus précise.
 
-Après les différentes discussions, nous avons retenu un projet portant sur la conception d'une station agrométéorologique avec relevé et transmission des données par SMS, associée à un système d’arrosage automatique.
+Après cette étape, nous avons commencé à identifier et à définir le matériel nécessaire à la réalisation du prototype. Nous avons réfléchi aux différents composants électroniques, aux capteurs, aux éléments mécaniques ainsi qu’aux autres matériels qui pourraient être nécessaires au fonctionnement du système.
 
-Notre projet est donc constitué de deux parties principales qui doivent fonctionner de manière complémentaire :
+Nous avons ensuite participé à l’atelier d’électronique, où nous avons réalisé le montage du Makeblock mBot. Nous avons découvert les différents éléments qui composent le robot et leur rôle dans son fonctionnement. Après le montage, nous avons également procédé à sa programmation, ce qui nous a permis de mettre en pratique les notions d’électronique et de programmation étudiées pendant la formation.
 
-Première partie : la station agrométéorologique.
-Elle aura pour objectif de recueillir des informations sur certaines conditions environnementales à l’aide de différents capteurs. Les données obtenues pourront ensuite être traitées et transmises à l’utilisateur par SMS, afin de permettre un suivi à distance.
+Enfin, dans l’atelier de découpe laser, nous avons suivi un module consacré à l’algorithme. Cette activité nous a permis de réfléchir à la manière de décomposer un problème en différentes étapes logiques afin d’obtenir une solution organisée et reproductible.
 
-Deuxième partie : le système d’arrosage automatique.
-Ce système aura pour objectif de faciliter l’arrosage des plantes en utilisant des informations provenant notamment de l’état du sol. Le dispositif pourra être programmé pour commander automatiquement l’arrosage lorsque les conditions définies sont réunies.
+## Appris
 
-Après le choix du projet, nous avons commencé à réfléchir à son fonctionnement général, aux différents éléments nécessaires à sa réalisation et aux possibilités de l’utiliser comme outil pédagogique dans le milieu éducatif.
+Au cours de cette journée, j’ai appris qu’avant de fabriquer un prototype, il est nécessaire de prendre le temps de réfléchir à son fonctionnement et de bien définir ses différentes parties.
 
-2. Appris
+La réalisation de l’esquisse m’a permis de comprendre l’importance de la représentation graphique dans la conception d’un projet. Une esquisse permet de visualiser l’idée, de mieux organiser les différents éléments et d’identifier certaines difficultés avant de passer à la fabrication.
 
-Cette activité m’a permis de comprendre que le choix d’un projet dans un FabLab est une étape fondamentale. Avant de commencer la fabrication, il est nécessaire d’identifier clairement le problème que l’on souhaite résoudre, de définir les objectifs et de vérifier si la solution envisagée est réalisable.
+J’ai également appris qu’il est important de définir le matériel nécessaire avant de commencer la réalisation. Cette étape permet de vérifier la disponibilité des composants et d’éviter de commencer une fabrication sans disposer des éléments indispensables.
 
-J’ai également compris qu’un projet de FabLab doit idéalement permettre de développer plusieurs compétences. Notre projet est intéressant dans ce sens puisqu’il fait intervenir plusieurs domaines tels que l’électronique, la programmation, les capteurs, l’automatisation, l’agriculture, l’environnement et les technologies de communication.
+Au niveau de l’électronique, j’ai appris à réaliser le montage du Makeblock mBot. Cette activité m’a permis de mieux comprendre les différents composants du robot et leur rôle. J’ai également appris à programmer le mBot afin de lui permettre d’exécuter des actions selon les instructions qui lui sont données.
 
-J’ai aussi appris davantage sur l’importance des FabLabs dans le milieu éducatif. Un FabLab permet aux apprenants de ne pas rester uniquement dans la théorie. Ils peuvent concevoir, fabriquer, tester et améliorer eux-mêmes des solutions.
+Cette activité m’a permis de mieux comprendre le lien entre le montage électronique, la programmation et le fonctionnement d’un système robotique. J’ai compris que le programme constitue un ensemble d’instructions permettant au robot d’effectuer différentes tâches.
 
-Dans le cadre de notre projet, les apprenants pourraient par exemple apprendre à identifier les paramètres environnementaux, installer et utiliser des capteurs, programmer un microcontrôleur, analyser les données obtenues et comprendre le fonctionnement d’un système automatisé.
+Lors du module sur l’algorithme, j’ai appris qu’un algorithme permet de décrire de manière logique et ordonnée les étapes nécessaires pour résoudre un problème ou réaliser une tâche. J’ai compris qu’avant d’écrire un programme, il est souvent nécessaire de réfléchir à la logique des actions que le système devra effectuer.
 
-La station agrométéorologique pourrait également servir à réaliser des activités pédagogiques autour de l’observation de l’environnement et de l’agriculture. Les données collectées pourraient être utilisées pour réaliser des tableaux, des graphiques et des analyses permettant aux apprenants de mieux comprendre les variations des conditions environnementales.
+## Raté
 
-J’ai également compris l’intérêt de la transmission des données par SMS. Cette fonctionnalité permettrait de recevoir les informations de la station à distance et montrerait aux apprenants une application concrète des technologies de communication dans un système automatisé.
+Au cours de cette journée, j’ai rencontré quelques difficultés.
 
-Pour le système d’arrosage automatique, j’ai compris que l’objectif est de réduire les interventions manuelles en permettant au dispositif de prendre une décision à partir des informations fournies par les capteurs. Cela permet également d’aborder les notions d’automatisation et de commande.
+Lors de la réflexion sur notre projet, il n’a pas été immédiatement facile de définir précisément tous les éléments du prototype. Certaines idées nécessitaient encore des discussions au sein du groupe avant de pouvoir être retenues.
 
-Enfin, cette activité m’a permis de comprendre l’importance du travail collaboratif. Le fait de travailler à quatre nous permet de confronter nos idées, de nous répartir les responsabilités et de rechercher ensemble des solutions aux problèmes rencontrés.
+La réalisation de l’esquisse a également demandé de la précision, car nous devions essayer de représenter clairement les différents éléments du système et leur organisation.
 
-3. Raté
+Pour le Makeblock mBot, certaines étapes du montage et de la programmation étaient nouvelles pour moi. Il fallait être attentif à la disposition des différents composants et bien comprendre les instructions de programmation.
 
-Au cours de la séance, nous avons rencontré quelques difficultés.
+Le module sur les algorithmes m’a également demandé de la concentration, notamment pour comprendre comment décomposer correctement un problème en différentes étapes logiques.
+   
+   ## Puis corrigé
 
-La première difficulté concernait le choix définitif du projet. Plusieurs idées intéressantes ont été proposées par les membres du groupe et il n’était pas immédiatement facile de déterminer laquelle répondait le mieux à nos objectifs.
+Pour surmonter ces difficultés, nous avons repris notre projet en groupe et discuté des différentes propositions. Les échanges entre les membres nous ont permis de mieux préciser l’idée et d’améliorer progressivement l’esquisse du prototype.
 
-Nous avons également constaté que notre projet est relativement vaste. La réalisation d’une station agrométéorologique et d’un système d’arrosage automatique nécessite plusieurs composants et plusieurs compétences techniques.
+Pour le choix du matériel, nous avons commencé à identifier les composants nécessaires en fonction des différentes fonctions que nous voulons intégrer au système.
 
-Nous devons encore déterminer avec précision :
+Concernant le Makeblock mBot, j’ai suivi les explications du formateur et repris les différentes étapes du montage avant de passer à la programmation. La manipulation pratique m’a permis de mieux comprendre le fonctionnement des différents éléments.
 
-les paramètres environnementaux à mesurer ;
-les différents capteurs nécessaires ;
-le système électronique de commande ;
-le dispositif permettant de transmettre les données par SMS ;
-le système permettant de commander l’arrosage ;
-le mode d’alimentation électrique ;
-la manière d’intégrer les différentes parties dans un prototype fonctionnel.
+Pour l’algorithme, j’ai essayé de raisonner étape par étape afin de comprendre comment passer d’un problème à une succession d’instructions permettant d’obtenir le résultat recherché.
 
-Nous n’avons pas non plus encore réalisé le prototype. Pour le moment, nous sommes principalement au stade de la réflexion, de la définition du projet et de la planification.
+## À faire demain
 
-4. Puis corrigé
+Pour la prochaine séance, nous allons poursuivre le développement de notre projet en groupe. Nous allons notamment améliorer l’esquisse du prototype et préciser davantage le fonctionnement de chaque partie du système.
 
-Afin de résoudre ces difficultés, nous avons pris le temps de discuter collectivement du projet et de préciser progressivement son objectif.
+Nous allons également finaliser la liste du matériel nécessaire, en identifiant les composants indispensables et leur rôle dans le prototype.
 
-Nous avons décidé de ne pas chercher à réaliser immédiatement le système complet. Nous allons plutôt procéder étape par étape, en commençant par identifier les besoins et les composants nécessaires.
+Je vais continuer à pratiquer la programmation du Makeblock mBot afin de mieux maîtriser son fonctionnement et les différentes possibilités offertes par le système.
 
-Nous avons également commencé à réfléchir à une organisation permettant de diviser le projet en différentes parties. Chaque membre du groupe pourra ainsi prendre en charge certaines tâches tout en travaillant en collaboration avec les autres.
+Enfin, je vais revoir les notions abordées sur les algorithmes afin de mieux comprendre leur construction et leur application dans la programmation des systèmes électroniques et robotiques.
 
-Nous avons compris que le prototype devra être développé progressivement : conception → choix des composants → réalisation des différents sous-systèmes → programmation → tests → correction des erreurs → intégration finale.
+## Bilan de la journée
 
-Cette approche devrait nous permettre de mieux maîtriser le projet et d’éviter de rencontrer trop de difficultés au moment de l’assemblage final.
+Cette journée du 03 septembre 2026 a été particulièrement enrichissante, car elle nous a permis de faire progresser notre projet tout en développant nos compétences techniques.
 
-5. À faire demain
+La réflexion sur le projet et la réalisation de l’esquisse nous ont montré que la conception constitue une étape essentielle avant la fabrication. Le montage et la programmation du Makeblock mBot nous ont ensuite permis de mettre en pratique les notions d’électronique et de programmation.
 
-Pour la prochaine séance, nous allons poursuivre la conception et la planification de notre projet.
-
-Nous allons notamment :
-
-Définir clairement le problème auquel notre projet doit répondre ;
-Déterminer l’objectif général et les objectifs spécifiques ;
-Identifier les paramètres que la station agrométéorologique devra mesurer ;
-Rechercher les capteurs adaptés à chaque paramètre ;
-Déterminer le système électronique qui permettra de récupérer et traiter les données ;
-Étudier le principe de transmission des informations par SMS ;
-Définir le fonctionnement du système d’arrosage automatique ;
-Identifier les composants nécessaires à la réalisation du prototype ;
-Répartir les différentes tâches entre les quatre membres du groupe ;
-Commencer à établir un schéma général du fonctionnement du système.
-
-Nous allons également réfléchir à la manière de transformer notre projet en outil pédagogique. Nous voulons que le prototype puisse être utilisé pour montrer aux apprenants comment les connaissances scientifiques et technologiques peuvent être appliquées à un problème concret.
-
-Bilan de la journée
-
-Cette journée de formation a été importante dans l’évolution de notre travail, car elle nous a permis de passer d’une simple réflexion sur les projets à la sélection d’un projet concret.
-
-Le choix d’une station agrométéorologique avec transmission des données par SMS associée à un système d’arrosage automatique nous semble pertinent, car le projet répond à une problématique concrète tout en permettant de mobiliser plusieurs compétences.
-
-Il présente également un fort intérêt pédagogique. Sa réalisation peut permettre aux apprenants de découvrir de manière pratique les capteurs, l’électronique, la programmation, l’automatisation, la collecte et la transmission des données.
-
-Cette activité m’a surtout permis de comprendre qu’un FabLab est un espace où l’on apprend en faisant. La conception d’un projet permet de développer la créativité, l’esprit critique, la capacité à résoudre des problèmes et le travail en équipe. En tant que futur FabManager, je comprends donc davantage l’importance de bien accompagner les apprenants depuis l’identification du besoin jusqu’à la réalisation et à l’amélioration du prototype.
+Enfin, le module sur les algorithmes m’a permis de comprendre davantage l’importance du raisonnement logique dans la programmation. L’ensemble de ces activités contribue progressivement au développement des compétences nécessaires pour devenir un FabManager capable de concevoir, accompagner et réaliser des projets au sein d’un FabLab.
