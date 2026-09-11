@@ -1,0 +1,37 @@
+# Journal - lundi 07 septembre 2026 ( rédigé par : Chérif ANAMINE )
+
+## Fait
+Nous avons poursuivi les travaux pratiques en électronique.
+Nous avons réalisé un schéma électronique avec le logiciel KiCad.
+Le montage est composé d’une alimentation +5 V, d’une résistance R1 de 220 Ω, d’une LED, d’une résistance R2 de 1 MΩ, d’une LDR (R3) et d’un transistor 2N3905.
+Nous avons placé les différents composants dans KiCad et réalisé les connexions entre eux.
+Nous avons étudié le fonctionnement du circuit permettant de commander la LED en fonction de la luminosité détectée par la LDR.
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+##  Appris
+Nous avons appris à utiliser KiCad pour réaliser un schéma électronique.
+Nous avons appris à rechercher et placer différents composants dans le logiciel.
+Nous avons compris le rôle de la LDR dans la détection de la lumière.
+Nous avons également étudié le fonctionnement du transistor 2N3905 pour commander la LED.
+Nous avons renforcé nos connaissances sur les résistances et les connexions dans un circuit électronique.
+![alt text](image-8.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+## Raté
+Nous avons rencontré quelques difficultés pour réaliser correctement certaines connexions dans KiCad.
+Nous avons également eu des difficultés à comprendre le fonctionnement du transistor et l’influence de la LDR sur la LED.
+![alt text](image-12.png)
+
+##  Puis corrigé
+Nous avons vérifié les connexions entre les différents composants.
+Nous avons corrigé les erreurs présentes dans le schéma.
+Nous avons vérifié les valeurs des résistances et le branchement du transistor.
+Après plusieurs vérifications, nous avons obtenu un schéma correct du circuit sur KiCad.
+![alt text](image-13.png)
+
+##  À faire demain
+Poursuivre la réalisation et la vérification du circuit.
+Tester le montage sur une breadboard.
+Vérifier le fonctionnement de la LED avec différentes intensités de lumière.
+Continuer à nous familiariser avec KiCad et préparer l’intégration du circuit dans notre prototype final.

@@ -1,0 +1,40 @@
+# Journal - jeudi 10 septembre 2026 ( rédigé par : **Chérif ANAMINE**)
+
+## Fait aujourd'huit 
+
+- Nous avons commencé les travaux pratiques sur notre projet de groupe portant sur la conception d’un électrolyseur de l’eau intelligent.
+- Après avoir reçu les différents composants nécessaires au projet, notamment la plaquette SK10, le microcontrôleur, le capteur de température, les fils de connexion, le capteur ultrasonique et l’écran OLED, nous avons procédé au montage du système.
+- Nous avons réalisé un premier essai expérimental en reliant les différents composants sur la breadboard.
+- Nous avons ensuite commencé la programmation du microcontrôleur afin de permettre la récupération et l’affichage des différentes informations.
+- Notre objectif était notamment d’afficher sur l’écran OLED la température ainsi que le niveau d’eau mesuré à l’aide du capteur ultrasonique.
+- Cette première expérience nous a permis de vérifier le fonctionnement de notre montage et de commencer l’intégration des différentes parties de notre électrolyseur intelligent.
+![image](/docs/medias/step1%20du%20projet.jpeg)
+## Appris
+- Nous avons appris à mettre en pratique les connaissances acquises en électronique et en programmation dans le cadre d’un projet concret.
+- Nous avons appris à réaliser les branchements entre un microcontrôleur et différents capteurs.
+- Nous avons compris le principe de fonctionnement d’un capteur ultrasonique pour mesurer un niveau d’eau.
+- Nous avons également appris à programmer le microcontrôleur pour récupérer les données des capteurs et les afficher sur un écran OLED.
+- Cette activité nous a permis de mieux comprendre l’importance de la vérification des branchements avant la mise sous tension du système.
+![image](/docs/medias/step%201'''''%20du%20projet.jpeg)
+![image](/docs/medias/step%201''''%20du%20projet.jpeg)
+![image](/docs/medias/step%201'''%20du%20projet.jpeg)
+![image](/docs/medias/step%201''%20du%20projet.jpeg)
+![image](/docs/medias/step%201'%20du%20projet.jpeg)
+## Raté
+- Nous avons rencontré plusieurs difficultés au niveau des branchements des composants.
+Malgré les vérifications effectuées, le système ne fonctionnait pas comme prévu.
+- La programmation permettant d’afficher correctement la température et le niveau d’eau avec le capteur ultrasonique n’a pas donné le résultat attendu.
+- Le premier essai s’est donc soldé par un échec, ce qui nous a empêchés d’obtenir l’affichage correct des données sur l’écran OLED.
+![image](/docs/medias/step%201'''''%20du%20projet.jpeg)
+
+## Puis corrigé
+- Nous avons commencé à vérifier méthodiquement les branchements de chaque composant.
+- Nous avons contrôlé les connexions entre le microcontrôleur, les capteurs et l’écran OLED.
+- Nous avons également repris le programme afin d’identifier les éventuelles erreurs de programmation.
+- Même si le problème n’a pas encore été totalement résolu, ces vérifications nous ont permis d’identifier plusieurs points à améliorer et de mieux comprendre le fonctionnement de notre montage.
+## À faire demain
+- Reprendre et corriger les branchements électriques du montage.
+- Vérifier et améliorer le programme du microcontrôleur.
+- Tester séparément le capteur de température, le capteur ultrasonique et l’écran OLED.
+- Réussir à afficher correctement la température et le niveau d’eau.
+- Poursuivre l’intégration des différents composants afin de faire fonctionner progressivement notre électrolyseur de l’eau intelligent

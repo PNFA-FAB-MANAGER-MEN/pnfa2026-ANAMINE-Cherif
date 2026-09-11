@@ -1,0 +1,36 @@
+# Journal - vendredi 5 septembre 2026 ( rédigé par : Chérif ANAMINE )
+
+
+##  Fait
+
+Nous avons poursuivi les travaux pratiques en électronique et en programmation.
+Nous avons réalisé un montage sur une breadboard en utilisant une carte électronique, un capteur de température et d’humidité ainsi qu’un écran OLED.
+Nous avons effectué les différents branchements entre les composants à l’aide de fils de connexion.
+Nous avons ensuite programmé la carte afin de récupérer les données du capteur.
+Les valeurs mesurées par le capteur ont été affichées directement sur l’écran OLED, notamment la température et l’humidité.
+Nous avons effectué plusieurs tests afin de vérifier la communication entre le capteur, la carte électronique et l’écran.
+Cette activité nous a permis de mettre en pratique les notions d’électronique et de programmation étudiées précédemment.
+![alt text](image.png)
+##  Appris
+Nous avons appris à réaliser un montage électronique sur une breadboard.
+Nous avons appris à connecter un capteur à une carte électronique.
+Nous avons compris comment récupérer les données mesurées par un capteur.
+Nous avons appris à afficher les informations sur un écran OLED.
+Nous avons également renforcé nos connaissances en programmation et en manipulation des composants électroniques.
+![alt text](image-1.png) 
+![alt text](image-2.png)
+## Raté
+Nous avons rencontré quelques difficultés au niveau de certains branchements.
+Les premières valeurs affichées sur l’écran n’étaient pas toujours correctes.
+Nous avons également dû vérifier le programme pour nous assurer que les données du capteur étaient correctement récupérées.
+![alt text](image-3.png)
+##  Puis corrigé
+Nous avons vérifié les connexions entre les différents composants.
+Nous avons corrigé les branchements qui posaient problème.
+Nous avons également apporté des modifications au programme afin d'obtenir un affichage correct des données.
+Après plusieurs tests, le système a réussi à afficher les valeurs de température et d’humidité sur l’écran OLED.
+## À faire demain
+Poursuivre les tests du montage.
+Améliorer le programme et l’affichage des données.
+Tester davantage le fonctionnement du capteur dans différentes conditions.
+Réfléchir à l’intégration de ce système dans notre prototype final.

@@ -1,0 +1,38 @@
+# Journal - mercredi 09 septembre 2026 ( rédigé par : Chérif ANAMINE)
+## Fait
+Nous avons poursuivi notre travail avec le logiciel KiCad pour la conception de circuits électroniques.
+Nous avons installé et configuré les bibliothèques de composants (Library) nécessaires à la réalisation de nos schémas.
+Nous avons recherché et sélectionné les différents composants électroniques nécessaires à notre montage.
+Nous avons réalisé les schémas électroniques en plaçant les composants et en effectuant les différentes connexions.
+Nous avons également commencé à préparer les composants et leurs empreintes (Footprints) en vue de la conception du circuit imprimé (PCB).
+Nous avons vérifié les connexions du montage afin de détecter d'éventuelles erreurs.
+
+## Appris
+Nous avons appris à installer et utiliser les bibliothèques de composants dans KiCad.
+Nous avons appris à rechercher et sélectionner les composants adaptés à un montage électronique.
+Nous avons appris à réaliser un schéma électronique sur KiCad.
+Nous avons compris l’importance des connexions entre les différents composants.
+Nous avons également découvert la notion d’empreinte (Footprint) et son importance pour la réalisation du PCB.
+![image](/docs/medias/realisation%20de%20PCB%201.jpeg)
+![image](/docs/medias/realisation%20de%20PCB%202.jpeg)
+§[image](/docs/medias/realisation%20de%20PCB%203.jpeg)
+![image](/docs/medias/realisation%20de%20PCB%204.jpeg)
+![image](/docs/medias/realisation%20de%20PCB%205.jpeg)
+![IMAGE](/docs/medias/realisation%20de%20PCB%206.jpeg)
+## Raté
+Nous avons rencontré quelques difficultés lors de l’installation et de la configuration de certaines bibliothèques.
+Certains composants recherchés n’étaient pas directement disponibles dans les bibliothèques installées.
+Nous avons également rencontré quelques difficultés lors du placement et du raccordement des composants dans le schéma.
+
+## Puis corrigé
+Nous avons recherché et installé les bibliothèques nécessaires.
+Nous avons vérifié les références et les caractéristiques des composants afin de choisir les modèles adaptés.
+Nous avons corrigé les connexions du schéma et vérifié l’organisation des différents composants.
+Après ces corrections, nous avons pu poursuivre la réalisation de nos montages sur KiCad.
+
+## À faire demain
+Poursuivre la réalisation et la vérification du schéma électronique.
+Finaliser le choix des empreintes des composants.
+Commencer la conception du PCB.
+Vérifier le circuit avant de passer aux prochaines étapes de fabrication.
+Continuer à mettre en pratique les fonctionnalités de KiCad.
