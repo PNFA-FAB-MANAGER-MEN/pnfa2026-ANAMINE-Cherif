@@ -1,0 +1,36 @@
+# Journal - vendredi 11 septembre 2026 ( rédigé par : **Chérif ANAMINE**)
+
+## 1. Fait
+- Nous avons poursuivi les travaux sur notre projet de conception d’un électrolyseur de l’eau intelligent.
+- Nous avons continué la programmation de notre prototype afin de permettre au système de mesurer et d’afficher le niveau d’eau.
+- Lors des premiers essais, nous avons rencontré des difficultés avec le capteur ultrasonique. Nous avons donc procédé au remplacement du capteur.
+- Après plusieurs essais et ajustements, nous avons réussi à afficher la distance mesurée par le capteur, ce qui nous permet de déterminer le niveau d’eau dans le récipient.
+- Nous avons ensuite commencé la réalisation de pièces destinées à notre prototype par impression 3D.
+- Pour cela, nous avons d’abord modélisé les tubes à essai en 3D, puis préparé leur fabrication par impression 3D.
+![image](/docs/medias/WhatsApp%20Image%202026-09-12%20at%2006.32.34%20(1).jpeg)
+![image](/docs/medias/WhatsApp%20Image%202026-09-12%20at%2006.32.34%20(2).jpeg)
+![image](/docs/medias/WhatsApp%20Image%202026-09-12%20at%2006.32.34.jpeg)
+## 2. Appris
+- Nous avons appris à poursuivre le développement d’un prototype en combinant électronique et programmation.
+- Nous avons compris l’importance du capteur ultrasonique dans la mesure du niveau d’eau.
+- Nous avons appris à diagnostiquer un problème de capteur et à le résoudre par son remplacement et par plusieurs tests.
+- Nous avons également découvert les différentes étapes permettant de passer d'une modélisation 3D à une impression 3D.
+- Cette activité nous a permis de mieux comprendre l'intégration entre les parties électronique, informatique et mécanique de notre projet.
+
+## 3. Raté
+- Nous avons rencontré des difficultés avec le premier capteur ultrasonique, qui ne permettait pas d'obtenir correctement la distance.
+- Plusieurs essais de programmation et de branchement ont été nécessaires avant d'obtenir des mesures fiables.
+- La réalisation des modèles 3D a également nécessité quelques ajustements pour obtenir des dimensions adaptées à notre prototype.
+
+## 4. Puis corrigé
+- Nous avons remplacé le capteur ultrasonique défectueux ou présentant des problèmes de fonctionnement.
+- Nous avons vérifié les branchements et corrigé le programme de mesure de la distance.
+- Après plusieurs tests, nous avons réussi à obtenir et à afficher correctement la distance correspondant au niveau d’eau.
+- Nous avons ensuite ajusté la modélisation des tubes à essai avant de passer à leur impression 3D.
+
+## 5. À faire demain
+- Poursuivre l’impression et la finition des pièces en 3D.
+- Tester l’intégration des tubes à essai dans le prototype.
+- Continuer à améliorer le programme et la mesure du niveau d’eau.
+- Vérifier le fonctionnement global de l’électrolyseur.
+- Commencer à intégrer progressivement les différentes parties du système pour obtenir un prototype fonctionnel de l’électrolyseur intelligent.
