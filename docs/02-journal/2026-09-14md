@@ -1,0 +1,37 @@
+# Journal - lundi 14 septembre 2026 ( rédigé par : **Chérif ANAMINE**)
+
+## 1. Fait
+- Nous avons poursuivi les travaux pratiques sur notre projet de conception d’un électrolyseur de l’eau intelligent.
+Après les difficultés rencontrées précédemment avec l’utilisation de deux capteurs ultrasoniques, nous avons analysé les résultats obtenus afin d’identifier l’origine des instabilités.
+- Nous avons constaté que l’utilisation de deux capteurs ultrasoniques avec un seul ESP32 provoquait des interférences entre les signaux ultrasoniques. Ces interférences entraînaient des variations importantes dans les mesures de distance.
+- Pour résoudre ce problème, nous avons décidé d’utiliser deux ESP32, chaque carte étant associée à un capteur ultrasonique.
+- Les deux ESP32 ont été configurés pour communiquer entre eux, afin de permettre la transmission des informations mesurées par chaque carte.
+- Nous avons ensuite effectué plusieurs essais pour vérifier la communication entre les deux cartes et la fiabilité des mesures.
+- Après plusieurs tests et ajustements, nous avons réussi à obtenir une mesure plus stable de la distance correspondant au niveau d’eau.
+- Nous avons également intégré la mesure de la température dans le système.
+Finalement, nous avons réussi à afficher sur l’écran OLED les informations principales du système, notamment la distance correspondant au niveau d’eau et la température.
+## 2. Appris
+- Nous avons appris que l’utilisation simultanée de plusieurs capteurs ultrasoniques peut provoquer des interférences lorsque leurs signaux sont émis au même moment.
+Nous avons compris l’importance de séparer les capteurs afin d’obtenir des mesures plus fiables.
+- Nous avons appris à utiliser deux ESP32 pour gérer séparément les deux capteurs ultrasoniques.
+Nous avons également découvert le principe de communication entre deux microcontrôleurs afin de transmettre les données d’une carte à l’autre.
+- Nous avons renforcé nos connaissances en programmation, notamment dans la récupération, la transmission et l’affichage des données.
+- Nous avons également appris à intégrer plusieurs informations provenant de différents capteurs sur un même écran OLED.
+## 3. Raté
+- Notre première configuration avec un seul ESP32 et deux capteurs ultrasoniques ne nous a pas permis d’obtenir des mesures fiables.
+- Les deux capteurs produisaient des signaux qui se perturbaient mutuellement, ce qui entraînait des valeurs de distance instables.
+- Plusieurs essais de branchement et de programmation n'ont pas permis de supprimer complètement ces interférences.
+Nous avons donc dû revoir l’architecture de notre système et chercher une autre solution.
+## 4. Puis corrigé
+- Nous avons identifié que le problème provenait principalement de l’utilisation simultanée des deux capteurs ultrasoniques avec un seul ESP32.
+Nous avons donc adopté une nouvelle configuration basée sur deux ESP32.
+- Chaque ESP32 prend désormais en charge un capteur ultrasonique, ce qui permet de limiter les interférences entre les mesures.
+- Nous avons ensuite mis en place une communication entre les deux cartes afin que les informations puissent être regroupées.
+- Après plusieurs essais et corrections du programme, nous avons réussi à obtenir les mesures du niveau d’eau et de la température.
+- Ces données sont finalement affichées sur l’écran OLED, ce qui constitue une étape importante dans la réalisation de notre électrolyseur intelligent.
+## 5. À faire demain
+- Continuer les tests de communication entre les deux ESP32.
+Vérifier la stabilité et la précision des mesures du niveau d’eau.
+- Améliorer l’affichage des informations sur l’écran OLED.
+Intégrer progressivement les autres fonctions de l’électrolyseur intelligent.
+- Commencer à organiser les différents composants afin de passer d’un montage expérimental à un prototype plus compact et fonctionnel.

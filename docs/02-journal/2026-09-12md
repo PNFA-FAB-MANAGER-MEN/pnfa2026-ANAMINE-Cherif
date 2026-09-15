@@ -1,0 +1,40 @@
+# Journal - samedi 11 septembre 2026 ( rédigé par : **Chérif ANAMINE**)
+## 1. Fait
+- Nous avons poursuivi les activités pratiques liées à notre projet de groupe portant sur la conception d’un électrolyseur de l’eau intelligent.
+- Dans un premier temps, nous avons continué la fabrication des différentes pièces nécessaires à notre prototype grâce à l’impression 3D, notamment les tubes à essai que nous avions précédemment modélisés.
+- Au cours de l’impression, nous avons rencontré un problème au niveau du filament. Celui-ci était mal enroulé sur la bobine, ce qui empêchait son déroulement régulier et perturbait le processus d’impression.
+- Nous avons donc arrêté l’impression afin d’identifier la cause du problème. Après vérification, nous avons constaté que le filament était effectivement mal positionné et emmêlé.
+Nous avons corrigé l’enroulement du filament afin de permettre une alimentation régulière de l’imprimante, puis nous avons relancé l’impression des tubes à essai.
+- Après cette étape, nous avons poursuivi les travaux sur la partie électronique de notre projet.
+Nous avons notamment expérimenté l’utilisation de deux capteurs ultrasoniques avec un ESP32 afin d’améliorer la mesure du niveau d’eau dans notre système.
+- Plusieurs essais ont été réalisés en modifiant les branchements et en testant différentes configurations de fonctionnement des deux capteurs.
+- Cependant, les mesures obtenues étaient très instables. Les distances affichées variaient fortement et ne correspondaient pas toujours aux valeurs réelles.
+- Nous avons continué les tests afin d’identifier l’origine de ces variations, mais nous n’avons pas encore obtenu un résultat suffisamment stable et convaincant.
+## 2. Appris
+- Nous avons appris qu’un problème mécanique simple, comme un mauvais enroulement du filament, peut avoir une influence importante sur la qualité et la continuité d’une impression 3D.
+- Nous avons appris à identifier un problème au niveau de l’imprimante et à effectuer les corrections nécessaires avant de relancer une fabrication.
+- Nous avons également approfondi nos connaissances sur l’utilisation de l’ESP32 avec plusieurs capteurs.
+Nous avons compris que l’utilisation simultanée de deux capteurs ultrasoniques nécessite une configuration adaptée afin d’éviter les perturbations entre les mesures.
+- Nous avons appris l’importance de réaliser plusieurs essais et de comparer les résultats avant de considérer un montage comme fiable.
+- Cette activité nous a permis de développer notre capacité à diagnostiquer les problèmes, effectuer des tests et rechercher progressivement des solutions.
+## 3. Raté
+- Notre première impression des tubes à essai a été perturbée par le mauvais enroulement du filament.
+L’impression ne pouvait donc pas se dérouler normalement et nous avons dû l’interrompre.
+- Au niveau de la partie électronique, l’utilisation de deux capteurs ultrasoniques avec l’ESP32 n’a pas donné les résultats attendus.
+- Malgré plusieurs essais, les valeurs de distance obtenues étaient instables et variables.
+Cette instabilité ne nous a pas permis d’obtenir une mesure fiable du niveau d’eau.
+- Nous n’avons donc pas encore obtenu un résultat suffisamment convaincant pour intégrer définitivement les deux capteurs dans notre prototype.
+4. Puis corrigé
+- Nous avons commencé par corriger le problème lié au filament en le déroulant et en le repositionnant correctement sur la bobine.
+- Après cette correction, nous avons relancé l’impression afin de poursuivre la fabrication des tubes à essai.
+Pour la partie électronique, nous avons vérifié les branchements des deux capteurs ultrasoniques et leur connexion avec l’ESP32.
+- Nous avons effectué plusieurs essais afin de comprendre l’origine de l’instabilité des mesures.
+- Nous avons également poursuivi les vérifications au niveau du programme et du fonctionnement des capteurs.
+- Même si nous n’avons pas encore obtenu une solution définitive, ces essais nous ont permis de mieux comprendre les difficultés liées à l’utilisation de plusieurs capteurs ultrasoniques simultanément.
+5. À faire demain
+- Vérifier la qualité finale des tubes à essai imprimés en 3D et effectuer les éventuelles corrections nécessaires.
+- Poursuivre les recherches afin de stabiliser les mesures des deux capteurs ultrasoniques.
+- Tester différentes configurations de branchement et de programmation avec l’ESP32.
+- Vérifier si les deux capteurs peuvent fonctionner simultanément sans interférence.
+- Comparer les résultats obtenus avec un seul capteur puis avec deux capteurs.
+- Continuer l’intégration des différentes parties de notre projet afin d’obtenir progressivement un électrolyseur de l’eau intelligent fonctionnel et fiable.
