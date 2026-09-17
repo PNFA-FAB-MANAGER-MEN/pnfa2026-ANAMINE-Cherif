@@ -1,0 +1,59 @@
+# Journal - mercredi 16 septembre 2026 ( rédigé par : **Chérif ANAMINE**)
+
+## 1. Fait
+- Nous avons poursuivi les travaux pratiques dans le cadre de notre projet de conception d’un électrolyseur de l’eau intelligent.
+
+- Nous avons continué la fabrication des tubes à essai par impression 3D afin de finaliser les éléments mécaniques nécessaires à notre prototype.
+[image](/pnfa2026-ANAMINE-Chérif/docs/medias/GT.jpeg)
+
+[image](/pnfa2026-ANAMINE-Chérif/docs/medias/OU.jpeg)
+- Après la fabrication, nous avons procédé à l’assemblage et aux tests de notre dispositif.
+[image](/pnfa2026-ANAMINE-Chérif/docs/medias/A.jpeg)
+[image](/pnfa2026-ANAMINE-Chérif/docs/medias/R.jpeg)
+
+- Nous avons également continué le travail sur le codage afin de permettre au système de récupérer et d’afficher les informations provenant des capteurs.
+- Une partie de la séance a également été consacrée à la maintenance et au dépannage du prototype.
+- Lors des essais, nous avons rencontré un problème au niveau des branchements électriques.
+- Nous n’arrivions pas à obtenir correctement l’affichage du niveau d’eau dans les deux tubes à essai sur l’écran OLED.
+- Nous avons donc démonté et remonté le montage à plusieurs reprises afin de vérifier les connexions et d’identifier l’origine du problème.
+- Malgré plusieurs tentatives, nous n’avons pas immédiatement réussi à obtenir le résultat attendu.
+- Nous avons finalement sollicité l’aide d’un formateur, qui nous a accompagné dans la vérification du montage.
+- Grâce à cette assistance, nous avons identifié que le problème provenait principalement d’un mauvais branchement.
+- Après avoir corrigé les connexions, nous avons réussi à obtenir le résultat attendu sur l’écran OLED.
+
+2. Appris
+- Nous avons appris l’importance de vérifier minutieusement les branchements électriques avant de modifier le programme.
+- Nous avons renforcé nos connaissances en codage, électronique et maintenance d’un prototype.
+- Nous avons appris à procéder de manière méthodique lors de la recherche d’une panne.
+- Nous avons également compris qu’un problème d’affichage des données peut être lié non seulement au programme, mais aussi au câblage des composants.
+- Cette activité nous a permis de développer notre capacité à travailler en équipe et à demander une assistance technique lorsque cela est nécessaire.
+
+## 3. Raté
+- Lors des premiers tests, nous n’arrivions pas à afficher correctement le niveau d’eau des deux tubes à essai sur l’écran OLED.
+- Nous avons effectué plusieurs démontages et remontages du dispositif sans parvenir immédiatement à résoudre le problème.
+- Le système ne donnait donc pas le résultat attendu malgré les vérifications effectuées.
+
+## 4. Puis corrigé
+- Nous avons repris progressivement les différents branchements afin de vérifier chaque connexion.
+- Après plusieurs tentatives infructueuses, nous avons demandé l’assistance d’un formateur.
+- Avec son aide, nous avons identifié l’origine du problème au niveau du câblage.
+- Nous avons corrigé les branchements concernés et effectué de nouveaux tests.
+- Après la correction, le système a finalement fonctionné correctement et nous avons pu afficher les niveaux d’eau des deux tubes à essai sur l’écran OLED.
+- Cette étape nous a permis de mieux comprendre l’importance d’un câblage précis dans le fonctionnement de notre prototype.
+## 5. À faire demain
+- Poursuivre les tests du prototype dans différentes conditions.
+- Vérifier la stabilité des mesures du niveau d’eau dans les deux tubes à essai.
+- Finaliser et améliorer le programme d’affichage sur l’écran OLED.
+- Vérifier l’ensemble des branchements afin d’éviter de nouvelles erreurs.
+- Effectuer la maintenance et les derniers réglages nécessaires pour rendre notre électrolyseur de l’eau intelligent plus fiable et fonctionnel.
+
+
+
+
+[image](/pnfa2026-ANAMINE-Chérif/docs/medias/![
+](GH-1.jpeg) ![  
+](J-1.jpeg) ![ 
+](Q-1.jpeg) ![ 
+](<WhatsApp Image 2026-09-17 at 22.13.55-1.jpeg>) ![
+](Y-1.jpeg) ![
+](Z-1.jpeg)

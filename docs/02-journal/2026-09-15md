@@ -1,0 +1,45 @@
+# Journal - mardi 15 septembre 2026 ( rédigé par : **Chérif ANAMINE**)
+## 1. Fait
+- Nous avons poursuivi les travaux sur notre projet de conception d’un électrolyseur de l’eau intelligent.
+- Nous avons continué l’élaboration du circuit imprimé (PCB) destiné à regrouper et organiser les différents composants électroniques de notre prototype.
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/PCB.jpeg)
+- Plusieurs essais ont été réalisés afin de concevoir un PCB adapté à notre montage et de vérifier les connexions entre les différents composants.
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/PCB2.jpeg)
+- Cependant, en raison du temps qui nous était imparti, nous avons constaté qu’il serait difficile de finaliser correctement le PCB dans le délai prévu.
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/plaquette%20cuvre.jpeg)
+
+- Nous avons donc décidé d’abandonner temporairement la réalisation du PCB et d’adopter une solution plus rapide pour poursuivre le développement du prototype.
+- Nous avons choisi d’utiliser une plaquette en cuivre perforée pour réaliser le montage électronique.
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/plaquette%20cuvre.jpeg)
+
+- En parallèle, nous avons poursuivi la fabrication mécanique du projet en imprimant la cuve de l’électrolyseur à l’aide de l’impression 3D.
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/Boitier%20&.jpeg)
+- Après l’assemblage des différents éléments, nous avons réalisé plusieurs essais afin de vérifier le fonctionnement général du prototype.
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/MONTAGE.jpeg)
+## 2. Appris
+- Nous avons appris que la réalisation d’un PCB demande du temps, de la précision et plusieurs étapes de vérification avant sa fabrication.
+- Nous avons appris à adapter notre méthode de travail en fonction des contraintes de temps et de fabrication.
+- Nous avons découvert l’utilisation d’une plaquette en cuivre perforée comme solution alternative pour réaliser rapidement un circuit électronique.
+- Nous avons également renforcé nos compétences en impression 3D, notamment pour la fabrication de la cuve destinée à notre électrolyseur.
+- Les différents essais nous ont permis de mieux comprendre l’importance de l’assemblage mécanique et électronique dans la réalisation d’un prototype fonctionnel.
+## 3. Raté
+- La conception du PCB a nécessité plusieurs essais et corrections.
+- Certaines difficultés rencontrées lors de la conception et du raccordement des composants nous ont fait perdre du temps.
+- Le temps disponible ne nous a finalement pas permis de terminer le PCB dans de bonnes conditions.
+- Nous avons également rencontré quelques difficultés lors des premiers essais du prototype, notamment au niveau de l’intégration des différents éléments.
+## 4. Puis corrigé
+- Après plusieurs tentatives de réalisation du PCB, nous avons décidé de changer de méthode afin de respecter le délai disponible.
+- Nous avons remplacé le PCB par une plaquette en cuivre perforée, permettant de réaliser plus rapidement les connexions électroniques.
+- Nous avons également poursuivi la fabrication de la cuve imprimée en 3D et procédé à son intégration dans le prototype.
+- Nous avons effectué plusieurs essais après l’assemblage afin d’identifier les éventuels problèmes et d’apporter progressivement les corrections nécessaires.
+- Cette nouvelle approche nous a permis de continuer l’avancement du projet malgré les contraintes de temps.
+## 5. À faire demain
+- Poursuivre les essais de fonctionnement de l’électrolyseur.
+- Vérifier les connexions et la stabilité du montage réalisé sur la plaquette perforée.
+- Tester l’étanchéité et la résistance de la cuve imprimée en 3D.
+- Améliorer l’assemblage des différentes parties du prototype.
+- Effectuer les derniers réglages de la partie électronique, programmation et mécanique afin d’obtenir un prototype fonctionnel.
+# **annexes**
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/MONTAGE.jpeg)
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/boitier%201.jpeg)
+![image](/pnfa2026-ANAMINE-Chérif/docs/medias/Cablage%203.jpeg)
